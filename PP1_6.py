@@ -10,7 +10,7 @@ def q1():
   num1 = int(input("Input a number: "))
   num2 = int(input("Input a number: "))
   
-  Print(num + num2)
+  Print(num1 + num2)
 
 # From input recieve two integers.  Output the quotient rounded down.
 
