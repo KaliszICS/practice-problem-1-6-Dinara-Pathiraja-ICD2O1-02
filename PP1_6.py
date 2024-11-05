@@ -7,16 +7,16 @@
 
 # From input, recieve two integers from the user and add them together.  Output the result.
 def q1():
-  num1 = input("Input a number: ")
-  num2 = input("Input a number: ")
+  num1 = int(input("Input a number: "))
+  num2 = int(input("Input a number: "))
   
   Print(num + num2)
 
 # From input recieve two integers.  Output the quotient rounded down.
 
 def q2():
-  num1 = input("Input a number: ")
-  num2 = input("Input a number: ")
+  num1 = int(input("Input a number: "))
+  num2 = int(input("Input a number: "))
   
   print(num1//num2)
 
@@ -36,7 +36,7 @@ def q4():
   
   print (int(num1 * num2))
 
-q1()
-q2()
-q3()
-q4()
+#q1()
+#q2()
+#q3()
+#q4()
